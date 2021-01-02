@@ -1,0 +1,22 @@
+﻿@page
+
+<div>
+    <input type="button" name="joinGroup" id="joinGroup" value="Join Private Group" />
+</div>
+<div>
+    <p>UserName:</p>
+    <input name="userName" id="userName" />
+    <p>Message:</p>
+    <textarea name="message" id="message"></textarea>
+    <p>Send to:</p>
+    <select id="group">
+        <option value="All">Evryone</option>
+        <option value="Myself">Myself</option>
+        <option value="PrivateGroup">Private Group</option>
+    </select>
+    <input type="button" name="sendBtn" id="sendBtn" value="Wyślij" />
+</div>
+
+<div id="messages"></div>
+<script src="~/lib/signalr.js"></script>
+<script src="~/js/message.js"></script>

@@ -1,0 +1,23 @@
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\bin\Debug\netcoreapp3.1\SignalR corse.exe
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.csprojAssemblyReference.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.AssemblyInfoInputs.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.AssemblyInfo.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.RazorAssemblyInfo.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.RazorAssemblyInfo.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.TagHelpers.input.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.TagHelpers.output.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.RazorCoreGenerate.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.RazorTargetAssemblyInfo.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\SignalR corse.RazorTargetAssemblyInfo.cs
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\staticwebassets\SignalR corse.StaticWebAssets.Manifest.cache
+C:\Users\sjsha\Documents\Project\Projekty Git\SignalR corse\SignalR corse\obj\Debug\netcoreapp3.1\staticwebassets\SignalR corse.StaticWebAssets.xml
